@@ -40,13 +40,6 @@ It will install WireGuard (kernel module and tools) on the server, configure it,
 
 Run the script again to add or remove clients!
 
-## Providers
-
-I recommend these cheap cloud providers for your VPN server:
-
-- [Vultr](https://www.vultr.com/?ref=8948982-8H): Worldwide locations, IPv6 support, starting at \$5/month
-- [Hetzner](https://hetzner.cloud/?ref=ywtlvZsjgeDq): Germany, Finland and USA. IPv6, 20 TB of traffic, starting at 4.5€/month
-- [Digital Ocean](https://m.do.co/c/ed0ba143fe53): Worldwide locations, IPv6 support, starting at \$4/month
 
 ## Contributing
 
